@@ -1,30 +1,5 @@
 #  snake water gun game!! 
 
-# computer = snke and user = water === "you lose the game " score == -1
-# computer = water and user = gun === "you lose the game"  score == -1
-# computer = gun and user = snake ==="you lose the game"   score == -1
-
-# computer == water and user == snake === "you won the game"    score == 1
-# computer == gun and user == water === "you won the game"      score == 1
-# computer == snake and user == gun ===  "you won the game "    score == 1
-
-#  computer == user ==== "your mathch is tie"        score == 0
-
-
-# Enter your name : Ankit
-# let's play the game 
-# please enter your choice between three
-# Press 1 for SNAKE
-# Press 2 for WATER
-# Press 3 for GUN
-
-# Computer choosen : SNAKE
-# You chhosen : GUN
-
-# Ankit Won the game, you can see the score on score.txt file
-
-# f"{USERNAME} vs computer, {winner} is winner and score is {score}"
-
 import random
 
 
